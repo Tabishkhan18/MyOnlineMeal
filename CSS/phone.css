@@ -62,6 +62,18 @@
     width: 206%;
 
 }
+#client{
+    display: flex;
+}
+.client-item{
+    margin: 50px 10px;
+}
+
+#clients img{
+    height: 140px;
+    background: white;
+    padding: 20px 20px;
+}
 
 /* contact */
 #contact{
