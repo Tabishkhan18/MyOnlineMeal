@@ -29,7 +29,8 @@
     flex-wrap: wrap;
     flex-direction: column; */
     padding-top: 100px;
-    width: 206%;
+    width: 100vmax;
+
     /* height: 100%; */
     
 }
@@ -53,13 +54,15 @@
 
 /* services */
 #services-container{
-    width: 206%;
+    width: 100vmax;
+
    
 }
 
 /* clients */
 #client-section{
-    width: 206%;
+    width: 100vmax;
+
 
 }
 #client{
@@ -82,7 +85,8 @@
     flex-direction: column;
     justify-content: center;
     align-items: center;
-    width: 206%;
+    width: 100vmax;
+
     margin: 50px 0px ;
 
 }
@@ -95,7 +99,8 @@
 
 /* footer */
 footer{
-    width: 206%;
+    width: 100vmax;
+
 }
 
 /* utility classes */
